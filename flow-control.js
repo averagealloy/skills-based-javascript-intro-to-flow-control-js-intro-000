@@ -21,11 +21,8 @@ function ageChecker(age) {
   } else {("age > 19")
     return ("your an adult")
 }
-  }
 
   }
-
-}
 
 function ternaryTeenager(age) {
 
